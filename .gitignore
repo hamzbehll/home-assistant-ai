@@ -1,0 +1,17 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+app_*backup*.py
+*_yedek.py
+*.pt
+.env
+.env.*
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+
+item_samples/
